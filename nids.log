@@ -1,0 +1,6 @@
+2025-08-24 07:46:03,549 - INFO - NIDS started
+2025-08-24 07:46:03,580 - WARNING - Blacklisted IP detected: 192.168.1.100 -> 192.168.1.1
+2025-08-24 07:46:03,598 - WARNING - Possible DoS attack from 10.0.0.99 (101 packets in 10s)
+2025-08-24 07:46:03,607 - WARNING - Unusual port usage: 192.168.1.25 -> 192.168.1.1:31337 (TCP)
+2025-08-24 07:46:03,608 - WARNING - Unusual port usage: 192.168.1.30 -> 192.168.1.1:4444 (TCP)
+
